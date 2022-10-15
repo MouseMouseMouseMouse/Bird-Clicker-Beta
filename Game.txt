@@ -1,0 +1,4 @@
+*scratchNose
+  name:Scratch nose
+  desc:Click this to scratch your nose. Grants 1 satisfaction per click.
+  on click:yield 1 satisfaction
