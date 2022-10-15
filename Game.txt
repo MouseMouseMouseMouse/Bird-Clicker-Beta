@@ -1,3 +1,5 @@
+Let's make a game!
+
 *scratchNose
   name:Scratch nose
   desc:Click this to scratch your nose. Grants 1 satisfaction per click.
